@@ -53,3 +53,9 @@ const translations = {
     summary_title: "Executive Summary"
   }
 };
+function setLanguage(lang) {
+  document.querySelectorAll("[data-lang-key]").forEach(el => {
+    const key = el.getAttribute("data-lang-key");
+    el.textContent = translations[lang][key];
+  });
+}
