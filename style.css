@@ -331,3 +331,23 @@ footer {
   transform: translateY(-2px);
   box-shadow: 0 10px 25px rgba(77,168,218,0.35);
 }
+.language-switcher {
+  display: flex;
+  gap: 8px;
+  margin-left: 15px;
+}
+
+.language-switcher button {
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 4px;
+  padding: 4px 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.2s ease;
+}
+
+.language-switcher button:hover {
+  border-color: #4DA8DA;
+  transform: translateY(-1px);
+}
