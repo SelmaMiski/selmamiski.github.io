@@ -11,7 +11,12 @@ body {
   line-height: 1.6;
   scroll-behavior: smooth;
 }
-
+h3 {
+  color: #4DA8DA;
+  margin-bottom: 10px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
 .navbar {
   position: fixed;
   width: 100%;
@@ -300,4 +305,23 @@ footer {
     width: 80px;
     margin-bottom: 18px;
   }
+}
+.linkedin-btn {
+  display: inline-block;
+  margin-bottom: 18px;
+  padding: 12px 26px;
+  background: transparent;
+  color: #4DA8DA;
+  border: 1px solid #4DA8DA;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.25s ease;
+}
+
+.linkedin-btn:hover {
+  background: #4DA8DA;
+  color: #0B1C2D;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(77,168,218,0.35);
 }
