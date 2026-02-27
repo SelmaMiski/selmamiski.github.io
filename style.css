@@ -294,8 +294,9 @@ footer {
   margin-bottom: 24px;
   opacity: 0.95;
   transition: transform 0.35s ease, opacity 0.35s ease;
-  @media (max-width: 768px) 
-  {
+}
+@media (max-width: 768px) {
+
   .hero-logo {
     width: 150px;
     margin-bottom: 18px;
