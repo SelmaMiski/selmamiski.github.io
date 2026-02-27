@@ -3,9 +3,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Selma Miski | 
-    Digital Marketing Strategist</title>
+  <title>Selma Miski | Digital Marketing Strategist</title>
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 </head>
@@ -13,23 +11,26 @@
 
 <nav class="navbar">
   <div class="language-switcher">
-  <button onclick="setLanguage('en')">🇬🇧</button>
-  <button onclick="setLanguage('it')">🇮🇹</button>
-  <button onclick="setLanguage('fr')">🇫🇷</button>
-</div>
- <div class="logo">
-  <a href="#top">
-    <img src="Logo.jpg" alt="Selma Miski Logo">
-  </a>
-</div>
+    <button onclick="setLanguage('en')">🇬🇧</button>
+    <button onclick="setLanguage('it')">🇮🇹</button>
+    <button onclick="setLanguage('fr')">🇫🇷</button>
+  </div>
+
+  <div class="logo">
+    <a href="#top">
+      <img src="Logo.jpg" alt="Selma Miski Logo">
+    </a>
+  </div>
+
   <div class="hamburger" id="hamburger">&#9776;</div>
+
   <ul class="nav-links" id="nav-links">
-    <li><a href="#summary">Executive Summary</a></li>
-    <li><a href="#swot">SWOT</a></li>
-    <li><a href="#timeline">Journey</a></li>
-    <li><a href="#case">Case Study</a></li>
-    <li><a href="#smart">Remote Working</a></li>
-    <li><a href="#vision">Vision</a></li>
+    <li><a href="#summary" data-lang-key="nav_summary">Executive Summary</a></li>
+    <li><a href="#swot" data-lang-key="nav_swot">SWOT</a></li>
+    <li><a href="#timeline" data-lang-key="nav_journey">Journey</a></li>
+    <li><a href="#case" data-lang-key="nav_case">Case Study</a></li>
+    <li><a href="#smart" data-lang-key="nav_remote">Remote Working</a></li>
+    <li><a href="#vision" data-lang-key="nav_vision">Vision</a></li>
   </ul>
 </nav>
 
@@ -37,161 +38,202 @@
   <div class="hero-overlay">
     <div class="hero-content">
       <img src="Logo.jpg" alt="Selma Miski Logo" class="hero-logo">
-      <h1>Selma Miski | Digital Marketing Strategist in Evolution</h1>
-      <p>Strategy, communication and performance-driven vision</p>
-      <a href="#summary" class="btn">Discover the Approach</a>
+
+      <h1 data-lang-key="hero_title">
+        Selma Miski | Digital Marketing Strategist in Evolution
+      </h1>
+
+      <p data-lang-key="hero_subtitle">
+        Strategy, communication and performance-driven vision
+      </p>
+
+      <a href="#summary" class="btn" data-lang-key="hero_cta">
+        Discover the Approach
+      </a>
     </div>
   </div>
 </header>
 
 <section id="summary" class="section reveal">
-  <h2>Executive Summary</h2>
+  <h2 data-lang-key="summary_title">Executive Summary</h2>
   <div class="grid-2">
     <div>
-      <h3>Who She Is</h3>
-      <p>Selma Miski is a Digital Marketing graduate with a strategic and results-oriented mindset.</p>
+      <h3 data-lang-key="summary_who_title">Who She Is</h3>
+      <p data-lang-key="summary_who_text">Selma Miski is a Digital Marketing graduate with a strategic and results-oriented mindset.</p>
     </div>
     <div>
-      <h3>What She Does</h3>
-      <p>She develops structured digital strategies based on analysis, data interpretation and measurable goals.</p>
+      <h3 data-lang-key="summary_what_title">What She Does</h3>
+      <p data-lang-key="summary_what_text">She develops structured digital strategies based on analysis, data interpretation and measurable goals.</p>
     </div>
     <div>
-      <h3>The Value She Brings</h3>
-      <p>Autonomy, strategic clarity and a business-oriented approach to every project.</p>
+      <h3 data-lang-key="summary_value_title">The Value She Brings</h3>
+      <p data-lang-key="summary_value_text">Autonomy, strategic clarity and a business-oriented approach to every project.</p>
     </div>
     <div>
-      <h3>Why Invest in Her</h3>
-      <p>She treats every task as an entrepreneurial responsibility with measurable outcomes.</p>
+      <h3 data-lang-key="summary_why_title">Why Invest in Her</h3>
+      <p data-lang-key="summary_why_text">She treats every task as an entrepreneurial responsibility with measurable outcomes.</p>
     </div>
   </div>
 </section>
 
 <section id="swot" class="section reveal">
-  <h2>Personal SWOT Analysis</h2>
+  <h2 data-lang-key="swot_title">Personal SWOT Analysis</h2>
   <div class="grid-2">
     <div class="card">
-      <h3>Strengths</h3>
-      <p>Data analysis, structured thinking, strategic communication and performance focus.</p>
+      <h3 data-lang-key="swot_s_title">Strengths</h3>
+      <p data-lang-key="swot_s_text">Data analysis, structured thinking, strategic communication and performance focus.</p>
     </div>
     <div class="card">
-      <h3>Weaknesses</h3>
-      <p>Continuous skill expansion in advanced tools, actively improving through ongoing learning.</p>
+      <h3 data-lang-key="swot_w_title">Weaknesses</h3>
+      <p data-lang-key="swot_w_text">Continuous skill expansion in advanced tools, actively improving through ongoing learning.</p>
     </div>
     <div class="card">
-      <h3>Opportunities</h3>
-      <p>Working remotely as a productivity accelerator through focus and goal-based organization.</p>
+      <h3 data-lang-key="swot_o_title">Opportunities</h3>
+      <p data-lang-key="swot_o_text">Working remotely as a productivity accelerator through focus and goal-based organization.</p>
     </div>
     <div class="card">
-      <h3>Threats</h3>
-      <p>Highly competitive market, addressed through constant development and adaptability.</p>
+      <h3 data-lang-key="swot_t_title">Threats</h3>
+      <p data-lang-key="swot_t_text">Highly competitive market, addressed through constant development and adaptability.</p>
     </div>
   </div>
 </section>
 
 <section id="timeline" class="section reveal">
-  <h2>From Academic Background to Business Impact</h2>
+  <h2 data-lang-key="journey_title">From Academic Background to Business Impact</h2>
+
   <div class="timeline">
+
     <div class="timeline-item">
-      <h3>Digital Marketing Degree</h3>
-      <p>→ Pursued at University of Modena and Reggio Emilia in Italy, 
-        resulted in the development of analytical thinking and strategic vision.</p>
+      <h3 data-lang-key="journey_deg_title">Digital Marketing Degree</h3>
+      <p data-lang-key="journey_deg_text">
+        → Pursued at University of Modena and Reggio Emilia in Italy,
+        resulted in the development of analytical thinking and strategic vision.
+      </p>
     </div>
+
     <div class="timeline-item">
-      <h3>Professional Experience</h3>
-      <p>→ 2+ years of experience in the world of marketing at Kimera srl, Italy.
-        Developed skills in managing different areas of commerce and marketing, 
+      <h3 data-lang-key="journey_exp_title">Professional Experience</h3>
+      <p data-lang-key="journey_exp_text">
+        → 2+ years of experience in the world of marketing at Kimera srl, Italy.
+        Developed skills in managing different areas of commerce and marketing,
         started as a working student and evolved into a full time role with increasing responsabilities.
       </p>
-      <h3>Before joining Kimera</h3>
-      <p>→ 1+ year of experience in the world of marketing a cosmetic lab in Italy called Bottega d'Argan.
+
+      <h3 data-lang-key="journey_before_title">Before joining Kimera</h3>
+      <p data-lang-key="journey_before_text">
+        → 1+ year of experience in the world of marketing a cosmetic lab in Italy called Bottega d'Argan.
         Freelance experience in brand awarness and all the online and offline communication.
-        <h3>Early gigs</h3>
-        → I always worked, started in Administrations, Back Office and Costumer Service, 
+      </p>
+
+      <h3 data-lang-key="journey_early_title">Early gigs</h3>
+      <p data-lang-key="journey_early_text">
+        → I always worked, started in Administrations, Back Office and Costumer Service,
         then I moved to the marketing world, where i found my true passion.
+      </p>
     </div>
+
     <div class="timeline-item">
-      <h3>Continuous Learning</h3>
-      <p>→ Adaptability and constant alignment with digital innovation. 
+      <h3 data-lang-key="journey_learning_title">Continuous Learning</h3>
+      <p data-lang-key="journey_learning_text">
+        → Adaptability and constant alignment with digital innovation.
         Always eager to learn and grow in the field.
       </p>
     </div>
+
   </div>
 </section>
 
 <section id="case" class="section reveal">
-  <h2>Case Study – Communication Optimization</h2>
+  <h2 data-lang-key="case_title">Case Study – Communication Optimization</h2>
+
   <div class="grid-2">
+
     <div>
-      <h3>STEP 1 | Analysis</h3>
-      <p>Identified opportunities to improve sales of a product line.</p>
-    </div>
-    <div>
-      <h3>STEP 2 | Strategic Idea</h3>
-      <p>Integrated content structure, found the channels that best supported the campaign, 
-        in this case, social media that targeted specific costumer segments.</p>
-    </div>
-    <div>
-      <h3>STEP 3 | Micro Proposal</h3>
-      <p>1| Use discount codes for costumers that would visit us at specific locations or fairs.
-<div></div>
-         2| Create a First Time Kit for new costumers to encourage them to try the product 
-         at a special price and then convert them into regular costumers.
+      <h3 data-lang-key="case_step1_title">STEP 1 | Analysis</h3>
+      <p data-lang-key="case_step1_text">
+        Identified opportunities to improve sales of a product line.
       </p>
     </div>
+
     <div>
-      <h3>STEP 4 | KPIs</h3>
-      <p>Projected +20% engagement and improved the conversion rate. </p>
+      <h3 data-lang-key="case_step2_title">STEP 2 | Strategic Idea</h3>
+      <p data-lang-key="case_step2_text">
+        Integrated content structure, found the channels that best supported the campaign,
+        in this case, social media that targeted specific costumer segments.
+      </p>
     </div>
+
     <div>
-      <div>
-      <h3>RESULTS</h3>
-      <p>Improved sales performance and customer engagement by implementing targeted communication strategies.</p>
+      <h3 data-lang-key="case_step3_title">STEP 3 | Micro Proposal</h3>
+      <p data-lang-key="case_step3_text">
+        1| Use discount codes for costumers that would visit us at specific locations or fairs.
+        2| Create a First Time Kit for new costumers to encourage them to try the product
+        at a special price and then convert them into regular costumers.
+      </p>
     </div>
+
+    <div>
+      <h3 data-lang-key="case_step4_title">STEP 4 | KPIs</h3>
+      <p data-lang-key="case_step4_text">
+        Projected +20% engagement and improved the conversion rate.
+      </p>
+    </div>
+
+    <div>
+      <h3 data-lang-key="case_results_title">RESULTS</h3>
+      <p data-lang-key="case_results_text">
+        Improved sales performance and customer engagement by implementing targeted communication strategies.
+      </p>
+    </div>
+
+  </div>
 </section>
 
 <section id="smart" class="section reveal">
-  <h2>Working as a Performance Lever</h2>
+  <h2 data-lang-key="smart_title">Working as a Performance Lever</h2>
   <ul class="smart-list">
-    <li>Higher concentration levels</li>
-    <li>Time optimization</li>
-    <li>Reduced stress = increased productivity</li>
-    <li>Objective-based organization (OKRs)</li>
+    <li data-lang-key="smart_1">Higher concentration levels</li>
+    <li data-lang-key="smart_2">Time optimization</li>
+    <li data-lang-key="smart_3">Reduced stress = increased productivity</li>
+    <li data-lang-key="smart_4">Objective-based organization (OKRs)</li>
   </ul>
-  <p class="proposal">Proposal: 2-month trial period with measurable KPIs.</p>
+  <p class="proposal" data-lang-key="smart_proposal">
+    Proposal: 2-month trial period with measurable KPIs.
+  </p>
 </section>
+
 <section class="section reveal" id="ai">
-  <h2>AI & Data-Driven Approach</h2>
-  <p class="ai-text">
+  <h2 data-lang-key="ai_title">AI & Data-Driven Approach</h2>
+  <p class="ai-text" data-lang-key="ai_text">
     Selma integrates artificial intelligence awareness and data-driven thinking
     into her marketing approach, with a strong focus on measurable performance,
     process optimization and continuous digital evolution.
   </p>
 </section>
+
 <section id="vision" class="section reveal">
-  <h2>Long-Term Vision</h2>
-  <p>
+  <h2 data-lang-key="vision_title">Long-Term Vision</h2>
+  <p data-lang-key="vision_text_1">
     Selma aims to grow as a Marketing Strategist, manage projects,
     coordinate teams and drive digital innovation within the company.
   </p>
-  <p>
+  <p data-lang-key="vision_text_2">
     She identifies with the company’s core values and sees strong potential for mutual growth and strategic contribution.
   </p>
 </section>
 
 <footer>
-
   <a href="https://www.linkedin.com/in/selma-miski-3390921b8/"
      target="_blank"
      rel="noopener noreferrer"
-     class="linkedin-btn">
+     class="linkedin-btn"
+     data-lang-key="footer_cta">
      View Full Professional Profile
   </a>
 
   <p>© 2026 Selma Miski | Designed and developed independently 🤍</p>
-
 </footer>
 
 <script src="script.js"></script>
 </body>
-
-</html>. 
+</html>
