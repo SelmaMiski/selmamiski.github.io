@@ -1,5 +1,5 @@
 index.html
 style.css
-script.js
+script.js 
 Hero.jpg
 Logo.jpg
