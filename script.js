@@ -75,6 +75,15 @@ const translations = {
     summary_why_text: "She treats every task as an entrepreneurial responsibility with measurable outcomes.",
 
     swot_title: "Personal SWOT Analysis",
+    swot_s_title: "Strengths",
+    swot_s_text: "Data analysis, structured thinking, strategic communication and performance focus.",
+    swot_w_title: "Weaknesses",
+    swot_w_text: "Continuous skill expansion in advanced tools, actively improving through ongoing learning.",
+    swot_o_title: "Opportunities",
+    swot_o_text: "Working remotely as a productivity accelerator through focus and goal-based organization.",
+    swot_t_title: "Threats",
+    swot_t_text: "Highly competitive market, addressed through constant development and adaptability.",
+    
     journey_title: "From Academic Background to Business Impact",
     journey_deg_title: "Digital Marketing Degree",
     journey_deg_text: "→ Completed at the University of Modena and Reggio Emilia, developing analytical thinking and strategic vision.",
