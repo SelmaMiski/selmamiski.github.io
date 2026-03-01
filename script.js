@@ -73,6 +73,46 @@ const translations = {
     summary_value_text: "Autonomy, strategic clarity and a business-oriented approach to every project.",
     summary_why_title: "Why Invest in Her",
     summary_why_text: "She treats every task as an entrepreneurial responsibility with measurable outcomes."
+      
+    journey_title: "From Academic Background to Business Impact",
+    journey_deg_title: "Digital Marketing Degree",
+    journey_deg_text: "→ Completed at the University of Modena and Reggio Emilia, developing analytical thinking and strategic vision.",
+    journey_exp_title: "Professional Experience",
+    journey_exp_text: "→ Over 2 years of experience in marketing at Kimera srl, Italy. Progressed from working student to a full-time role with increasing responsibilities.",
+    journey_before_title: "Before Joining Kimera",
+    journey_before_text: "→ Over 1 year of marketing experience at the cosmetic lab Bottega d'Argan. Freelance work in brand awareness and both online and offline communication.",
+    journey_early_title: "Early Gigs",
+    journey_early_text: "→ Always worked: administration, back office and customer service before fully transitioning into marketing.",
+    journey_learning_title: "Continuous Learning",
+    journey_learning_text: "→ Constant alignment with digital innovation and strong growth mindset.",
+    
+    case_title: "Case Study – Communication Optimization",
+    case_step1_title: "STEP 1 | Analysis",
+    case_step1_text: "Identified opportunities to improve sales of a product line.",
+    case_step2_title: "STEP 2 | Strategic Idea",
+    case_step2_text: "Content structuring and identification of the most effective channels for the target audience.",
+    case_step3_title: "STEP 3 | Micro Proposal",
+    case_step3_text: "Introduction of discount codes and a First Time Kit to encourage trial and conversion.",
+    case_step4_title: "STEP 4 | KPIs",
+    case_step4_text: "Projected +20% engagement and improved conversion rate.",
+    case_results_title: "RESULTS",
+    case_results_text: "Improved sales performance and customer engagement.",
+    
+    smart_title: "Working as a Performance Lever",
+    smart_1: "Higher concentration levels",
+    smart_2: "Time optimization",
+    smart_3: "Reduced stress = increased productivity",
+    smart_4: "Objective-based organization (OKRs)",
+    smart_proposal: "Proposal: 2-month trial period with measurable KPIs.",
+    
+    ai_title: "AI & Data-Driven Approach",
+    ai_text: "Selma integrates artificial intelligence awareness and data analysis into her marketing approach, with a strong focus on measurable performance.",
+    
+    vision_title: "Long-Term Vision",
+    vision_text_1: "Grow as a Marketing Strategist, manage projects and coordinate teams.",
+    vision_text_2: "Strong alignment with company values and a clear focus on mutual growth.",
+    
+    footer_cta: "View Full Professional Profile"
   },
 
   it: {
