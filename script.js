@@ -72,8 +72,9 @@ const translations = {
     summary_value_title: "The Value She Brings",
     summary_value_text: "Autonomy, strategic clarity and a business-oriented approach to every project.",
     summary_why_title: "Why Invest in Her",
-    summary_why_text: "She treats every task as an entrepreneurial responsibility with measurable outcomes."
-      
+    summary_why_text: "She treats every task as an entrepreneurial responsibility with measurable outcomes.",
+
+    swot_title: "Personal SWOT Analysis",
     journey_title: "From Academic Background to Business Impact",
     journey_deg_title: "Digital Marketing Degree",
     journey_deg_text: "→ Completed at the University of Modena and Reggio Emilia, developing analytical thinking and strategic vision.",
