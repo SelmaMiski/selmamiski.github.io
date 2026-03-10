@@ -352,3 +352,19 @@ footer {
   border-color: #4DA8DA;
   transform: translateY(-1px);
 }
+.kimera-btn {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 10px 22px;
+  background-color: #4DA8DA;
+  color: #0B1C2D;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.kimera-btn:hover {
+  background-color: #3794c7;
+  transform: translateY(-2px);
+}
