@@ -368,3 +368,11 @@ footer {
   background-color: #3794c7;
   transform: translateY(-2px);
 }
+.skills-list {
+  list-style: none;
+  padding: 0;
+}
+
+.skills-list li {
+  margin-bottom: 8px;
+}
