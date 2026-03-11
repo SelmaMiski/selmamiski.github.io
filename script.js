@@ -112,7 +112,7 @@ const translations = {
     smart_1: "→Selma has developed strong mental flexibility thanks to her multilingual background and international communication skills.",
     smart_2: "→She easily adapts to different environments and collaborates effectively across cultures and teams.",
     smart_3: "→Her competencies span multiple areas including graphic design using Adobe Creative Suite, translation, multilingual communication, web technologies such as HTML, and website management through WordPress and data analysis with tools like Google Analytics and 360.",
-    
+    smart_button: "Discover My Full CV",
   
     vision_title: "Long-Term Vision",
     vision_text_1: "Grow as a Marketing Strategist, manage projects and coordinate teams.",
@@ -181,7 +181,7 @@ const translations = {
   smart_1: "→Selma ha sviluppato una forte flessibilità mentale grazie al suo background multilingue e alle sue competenze nella comunicazione internazionale.",
   smart_2: "→Si adatta facilmente a diversi ambienti e collabora in modo efficace tra culture e team differenti.",
   smart_3: "→Le sue competenze coprono diversi ambiti, tra cui il graphic design con Adobe Creative Suite, la traduzione, la comunicazione multilingue, le tecnologie web come HTML, la gestione di siti web tramite WordPress e l’analisi dei dati con strumenti come Google Analytics e Google Analytics 360.",
-
+  smart_button: "Scopri il curriculum completo",
 
   vision_title: "Visione di lungo periodo",
   vision_text_1: "Crescere come Marketing Strategist, gestire progetti e coordinare team.",
@@ -246,15 +246,11 @@ fr: {
   case_results_title: "RÉSULTATS",
   case_results_text: "Amélioration des performances commerciales et de l’engagement client.",
 
-  smart_title: "Le travail comme levier de performance",
-  smart_1: "Niveaux de concentration plus élevés",
-  smart_2: "Optimisation du temps",
-  smart_3: "Réduction du stress = augmentation de la productivité",
-  smart_4: "Organisation par objectifs (OKR)",
-  smart_proposal: "Proposition : période d’essai de 2 mois avec KPI mesurables.",
-
-  ai_title: "Approche IA et Data-Driven",
-  ai_text: "Selma intègre la culture de l’intelligence artificielle et l’analyse de données dans son approche marketing, avec un fort focus sur la performance mesurable.",
+  smart_title: "Compétences clés",
+  smart_1: "→Selma a développé une forte flexibilité mentale grâce à son parcours multilingue et à ses compétences en communication internationale.",
+  smart_2: "→Elle s’adapte facilement à différents environnements et collabore efficacement entre différentes cultures et équipes.",
+  smart_3: "→Ses compétences couvrent plusieurs domaines, notamment le graphisme avec Adobe Creative Suite, la traduction, la communication multilingue, les technologies web comme HTML, la gestion de sites web via WordPress et l’analyse de données avec des outils tels que Google Analytics et Google Analytics 360.",
+  smart_button: "Voir le CV complet",
 
   vision_title: "Vision à long terme",
   vision_text_1: "Évoluer en tant que Marketing Strategist, piloter des projets et coordonner des équipes.",
