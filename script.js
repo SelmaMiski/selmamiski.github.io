@@ -311,5 +311,7 @@ function setLanguage(lang) {
       el.textContent = translations[lang][key];
     }
   });
-  setLanguage("en");
 }
+
+// lingua di default
+setLanguage("en");
