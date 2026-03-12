@@ -71,8 +71,8 @@ const translations = {
     summary_what_text: "She develops structured digital strategies based on analysis, data interpretation and measurable goals.",
     summary_value_title: "The Value She Brings",
     summary_value_text: "Autonomy, strategic clarity and a business-oriented approach to every project.",
-    summary_why_title: "Core Skills",
-    summary_why_text: "Languages: Italian, English, French, Spanish, Arabic. Design tools: Adobe Creative Suite and Canva. Web skills: HTML and Java, WordPress website managementDigital Tools: Meta Business Suite, Google Ads, Google Analytics, SEO.",
+    summary_skills_title: "Core Skills",
+    summary_skills_text: "Languages: Italian, English, French, Spanish, Arabic. Design tools: Adobe Creative Suite and Canva. Web skills: HTML and Java, WordPress website management. Digital Tools: Meta Business Suite, Google Ads, Google Analytics, SEO."
 
     swot_title: "Personal SWOT Analysis",
     swot_s_title: "Strengths",
