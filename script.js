@@ -156,8 +156,8 @@ const translations = {
   summary_what_text: "Sviluppa strategie digitali strutturate basate su analisi, interpretazione dei dati e obiettivi misurabili.",
   summary_value_title: "Il valore che porta",
   summary_value_text: "Autonomia, chiarezza strategica e approccio orientato al business in ogni progetto.",
-  summary_why_title: "Core Skills",
-  summary_why_text: "Lingue: Italiano, Inglese, Francese, Spagnolo, Arabo. Strumenti di design: Adobe Creative Suite e Canva. Competenze web: HTML e Java, gestione di siti web tramite WordPress. Strumenti digitali: Meta Business Suite, Google Ads, Google Analytics, SEO",
+  summary_skills_title: "Core Skills",
+  summary_skills_text: "Lingue: Italiano, Inglese, Francese, Spagnolo, Arabo. Strumenti di design: Adobe Creative Suite e Canva. Competenze web: HTML e Java, gestione di siti web tramite WordPress. Strumenti digitali: Meta Business Suite, Google Ads, Google Analytics, SEO",
 
   swot_title: "Analisi SWOT personale",
   swot_s_title: "Punti di forza",
@@ -237,8 +237,8 @@ fr: {
   summary_what_text: "Elle développe des stratégies digitales structurées basées sur l’analyse des données et des objectifs mesurables.",
   summary_value_title: "Valeur ajoutée",
   summary_value_text: "Autonomie, clarté stratégique et approche orientée business pour chaque projet.",
-  summary_why_title: "Compétences clés",
-  summary_why_text: "Langues : Italien, Anglais, Français, Espagnol, Arabe. Outils de design : Adobe Creative Suite et Canva. Compétences web : HTML et Java, gestion de sites web avec WordPress. Outils numériques : Meta Business Suite, Google Ads, Google Analytics, SEO",
+  summary_skills_title: "Compétences clés",
+  summary_skills_text: "Langues : Italien, Anglais, Français, Espagnol, Arabe. Outils de design : Adobe Creative Suite et Canva. Compétences web : HTML et Java, gestion de sites web avec WordPress. Outils numériques : Meta Business Suite, Google Ads, Google Analytics, SEO",
 
   swot_title: "Analyse SWOT personnelle",
   swot_s_title: "Forces",
