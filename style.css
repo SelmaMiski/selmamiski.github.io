@@ -376,3 +376,19 @@ footer {
 .skills-list li {
   margin-bottom: 8px;
 }
+
+.smart-btn {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 14px 30px;
+  background: #3aa6ff;
+  color: white;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.smart-btn:hover {
+  background: #1f8ae0;
+}
