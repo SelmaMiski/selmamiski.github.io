@@ -119,11 +119,20 @@ const translations = {
     skills_web: "Web skills: HTML and Java, WordPress website management",
     skills_tools: "Digital Tools: Meta Business Suite, Google Ads, Google Analytics, SEO",
   
-    vision_title: "Long-Term Vision",
-    vision_text_1: "Grow as a Marketing Strategist, manage projects and coordinate teams.",
-    vision_text_2: "Strong alignment with company values and a clear focus on mutual growth.",
+
+    portfolio_title: "Portfolio",
+
+    portfolio_ipackima_title: "IPACK-IMA Milan – Trade Fair Design",
+    portfolio_ipackima_text: "Design and visual communication created for the IPACK-IMA trade fair in Milan, supporting the launch of a new product line and strengthening brand visibility during the exhibition.",
+
+    portfolio_easyfit_title: "EasyFit Website Design",
+    portfolio_easyfit_text: "Website design and visual layout developed by me, with technical collaboration from the agency Switchup, where I completed a six-month advanced course to strengthen my digital marketing and web development skills.",
+
+    portfolio_kimera_title: "Kimera Product Catalogue",
+    portfolio_kimera_text: "Complete catalogue design and graphic layout developed by me for Kimera. Although minor updates were introduced after my departure, the overall concept, structure and visual identity were originally created by me.",
     
     footer_cta: "View Full Professional Profile"
+    
     
     
   },
@@ -195,9 +204,16 @@ const translations = {
   skills_web: "Competenze web: HTML e Java, gestione siti con WordPress",
   skills_tools: "Strumenti digitali: Meta Business Suite, Google Ads, Google Analytics, SEO",
     
-  vision_title: "Visione di lungo periodo",
-  vision_text_1: "Crescere come Marketing Strategist, gestire progetti e coordinare team.",
-  vision_text_2: "Forte allineamento con i valori aziendali e visione di crescita reciproca.",
+    portfolio_title: "Portfolio",
+
+    portfolio_ipackima_title: "Fiera IPACK-IMA Milano – Design grafico",
+    portfolio_ipackima_text: "Progetto di design e comunicazione visiva realizzato per la fiera IPACK-IMA di Milano, utilizzato per presentare e introdurre una nuova linea di prodotti.",
+
+    portfolio_easyfit_title: "Design sito EasyFit",
+    portfolio_easyfit_text: "Grafica e struttura del sito web realizzate da me, con il supporto tecnico dell'agenzia Switchup, con cui ho svolto un corso di sei mesi per ampliare le mie competenze nel marketing digitale e nello sviluppo web.",
+
+    portfolio_kimera_title: "Catalogo prodotti Kimera",
+    portfolio_kimera_text: "Design completo e impaginazione grafica del catalogo sviluppati da me per Kimera. Anche se successivamente sono state apportate alcune modifiche dopo la mia uscita dall’azienda, il concept, la struttura e la grafica originale sono stati interamente realizzati da me.",
 
 footer_cta: "Visualizza il profilo completo"
 },
@@ -269,9 +285,17 @@ fr: {
   skills_web: "Compétences web : HTML et Java, gestion de sites WordPress",
   skills_tools: "Outils numériques : Meta Business Suite, Google Ads, Google Analytics, SEO",
   
-  vision_title: "Vision à long terme",
-  vision_text_1: "Évoluer en tant que Marketing Strategist, piloter des projets et coordonner des équipes.",
-  vision_text_2: "Fort alignement avec les valeurs de l’entreprise et vision de croissance mutuelle.",
+
+    portfolio_title: "Portfolio",
+
+    portfolio_ipackima_title: "Salon IPACK-IMA Milan – Design graphique",
+    portfolio_ipackima_text: "Projet de design et communication visuelle réalisé pour le salon IPACK-IMA à Milan afin de présenter et lancer une nouvelle ligne de produits.",
+
+    portfolio_easyfit_title: "Design du site EasyFit",
+    portfolio_easyfit_text: "Design graphique et structure du site web réalisés par moi avec la collaboration technique de l'agence Switchup, où j’ai suivi une formation de six mois pour renforcer mes compétences en marketing digital.",
+
+    portfolio_kimera_title: "Catalogue produits Kimera",
+    portfolio_kimera_text: "Design complet et mise en page graphique du catalogue réalisés par moi pour Kimera. Bien que certaines modifications aient été apportées après mon départ, le concept, la structure et l'identité visuelle initiale ont été entièrement créés par moi.",
 
   footer_cta: "Voir le profil professionnel complet"
   }
