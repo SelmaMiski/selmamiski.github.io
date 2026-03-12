@@ -311,4 +311,5 @@ function setLanguage(lang) {
       el.textContent = translations[lang][key];
     }
   });
+  setLanguage("en");
 }
