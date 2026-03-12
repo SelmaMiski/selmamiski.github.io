@@ -57,7 +57,7 @@ const translations = {
     nav_swot: "SWOT",
     nav_journey: "Journey",
     nav_case: "Case Study",
-    nav_remote: "Remote Working",
+    nav_remote: "Skills",
     nav_vision: "Vision",
 
     hero_title: "Selma Miski | Digital Marketing Strategist in Evolution",
