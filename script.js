@@ -113,12 +113,19 @@ const translations = {
     smart_2: "→She easily adapts to different environments and collaborates effectively across cultures and teams.",
     smart_3: "→Her competencies span multiple areas including graphic design using Adobe Creative Suite, translation, multilingual communication, web technologies such as HTML, and website management through WordPress and data analysis with tools like Google Analytics and 360.",
     smart_button: "Discover My Full CV",
+    
+    skills_lang: "Languages: Italian, English, French, Spanish, Arabic",
+    skills_design: "Design tools: Adobe Creative Suite and Canva",
+    skills_web: "Web skills: HTML and Java, WordPress website management",
+    skills_tools: "Digital Tools: Meta Business Suite, Google Ads, Google Analytics, SEO",
   
     vision_title: "Long-Term Vision",
     vision_text_1: "Grow as a Marketing Strategist, manage projects and coordinate teams.",
     vision_text_2: "Strong alignment with company values and a clear focus on mutual growth.",
     
     footer_cta: "View Full Professional Profile"
+    
+    
   },
 
   it: {
@@ -183,6 +190,11 @@ const translations = {
   smart_3: "→Le sue competenze coprono diversi ambiti, tra cui il graphic design con Adobe Creative Suite, la traduzione, la comunicazione multilingue, le tecnologie web come HTML, la gestione di siti web tramite WordPress e l’analisi dei dati con strumenti come Google Analytics e Google Analytics 360.",
   smart_button: "Scopri il curriculum completo",
 
+  skills_lang: "Lingue: Italiano, Inglese, Francese, Spagnolo, Arabo",
+  skills_design: "Strumenti di design: Adobe Creative Suite e Canva",
+  skills_web: "Competenze web: HTML e Java, gestione siti con WordPress",
+  skills_tools: "Strumenti digitali: Meta Business Suite, Google Ads, Google Analytics, SEO",
+    
   vision_title: "Visione di lungo periodo",
   vision_text_1: "Crescere come Marketing Strategist, gestire progetti e coordinare team.",
   vision_text_2: "Forte allineamento con i valori aziendali e visione di crescita reciproca.",
@@ -252,6 +264,11 @@ fr: {
   smart_3: "→Ses compétences couvrent plusieurs domaines, notamment le graphisme avec Adobe Creative Suite, la traduction, la communication multilingue, les technologies web comme HTML, la gestion de sites web via WordPress et l’analyse de données avec des outils tels que Google Analytics et Google Analytics 360.",
   smart_button: "Voir le CV complet",
 
+  skills_lang: "Langues : Italien, Anglais, Français, Espagnol, Arabe",
+  skills_design: "Outils de design : Adobe Creative Suite et Canva",
+  skills_web: "Compétences web : HTML et Java, gestion de sites WordPress",
+  skills_tools: "Outils numériques : Meta Business Suite, Google Ads, Google Analytics, SEO",
+  
   vision_title: "Vision à long terme",
   vision_text_1: "Évoluer en tant que Marketing Strategist, piloter des projets et coordonner des équipes.",
   vision_text_2: "Fort alignement avec les valeurs de l’entreprise et vision de croissance mutuelle.",
